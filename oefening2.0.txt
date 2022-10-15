@@ -1,2 +1,6 @@
 hello world
+<<<<<<< HEAD
 andere tekst 
+=======
+blablabla
+>>>>>>> 75bc9dd4130d754cbbb166bf0924ffe2c3d5069e
